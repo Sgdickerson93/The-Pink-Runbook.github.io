@@ -1,4 +1,4 @@
-# The Pink Runbook
+# The Pink Runbook 👩🏾‍💻 :pink_heart: :cloud:
 
 **Cloud curiosity. Thoughtful troubleshooting. People-first technology.**
 
