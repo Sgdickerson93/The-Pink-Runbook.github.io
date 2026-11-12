@@ -4,13 +4,13 @@
 
 The Pink Runbook is my personal portfolio and learning journal, focused on cloud fundamentals, DevOps practices, and technical support. It is a place to document what I am learning, explain how I approach problems, and turn small experiments into useful reference material.
 
-The name brings together two things: a little personality and the practical value of a good runbookâ€”clear steps that help someone understand a system, resolve an issue, or confidently take the next action.
+The name brings together two things: a little personality and the practical value of a good runbook: clear steps that help someone understand a system, resolve an issue, or confidently take the next action.
 
 ## What you will find
 
 - **Learning labs:** project concepts and experiments exploring cloud hosting, deployment workflows, and troubleshooting.
 - **Field notes:** short explanations of technical ideas and lessons from the learning process.
-- **Professional profile:** an introduction, areas of interest, and a printable rÃ©sumÃ© section.
+- **Professional profile:** an introduction, areas of interest, and a printable resume section.
 
 The initial version includes illustrative lab concepts and sample entries. As I complete hands-on work, I plan to replace these with documented implementations, verification steps, and lessons learned.
 
@@ -24,7 +24,7 @@ The initial version includes illustrative lab concepts and sample entries. As I 
 
 ## Built with
 
-HTML, CSS, and vanilla JavaScript. The site uses a responsive layout, project filters, native dialogs, and a printable rÃ©sumÃ©. It has no build step or package dependencies, keeping the code approachable to inspect, maintain, and debug.
+HTML, CSS, and vanilla JavaScript. The site uses a responsive layout, project filters, native dialogs, and a printable resume. It has no build steps or package dependencies, keeping the code approachable for inspection, maintenance, and debugging.
 
 The terminal artwork and project diagrams are illustrative, rather than live infrastructure status displays. The current site is static; backend features are future learning goals.
 
