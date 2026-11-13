@@ -102,17 +102,18 @@ function renderPostDetail(postKey) {
 
 function renderResumeDetail() {
   return `
-    <div class="eyebrow">SAMPLE RÉSUMÉ · REPLACE WITH YOUR DETAILS</div>
-    <h2>Your Name</h2>
-    <p>Cloud / DevOps / Client Services · hello@example.com · github.com/your-username</p>
-    <h3>Profile</h3>
-    <p>An emerging technology professional exploring cloud infrastructure, deployment workflows, and empathetic technical support through hands-on learning.</p>
+    <div class="eyebrow">PROFESSIONAL PROFILE</div>
+    <h2>SHELBY G. DICKERSON</h2>
+    <p>Cloud / DevOps / Client Services · ShelbyGDickerson@outlook.com · github.com/Sgdickerson93</p>
+    <h3>Summary</h3>
+    <p>Support professional with 9+ years of experience resolving enterprise technical issues, investigating incidents, analyzing logs and data, 
+    and coordinating across client, development, and engineering teams. </p>
     <h3>Skills</h3>
-    <p>Learning focus: Linux, networking, DNS, Git, CI/CD concepts, troubleshooting, runbooks, and client communication. Replace with skills you can demonstrate.</p>
+    <p>Learning focus: Linux, networking, DNS, Git, CI/CD concepts, troubleshooting, runbooks, and client communication.</p>
     <h3>Selected project concepts</h3>
     <p><strong>Cloud launchpad:</strong> Static hosting, DNS, HTTPS, and access controls.<br><strong>Commit to cloud:</strong> CI/CD checks, deployment, and rollback planning.<br><strong>The support playbook:</strong> Structured diagnosis and clear client updates.</p>
     <h3>Experience & education</h3>
-    <p>Add your roles, contributions, education, or independent study here. Include dates and specific outcomes that reflect your actual experience.</p>
+    <p>Coming soon...</p>
     <button class="button" id="print-resume">Print / save as PDF ↗</button>
   `;
 }
